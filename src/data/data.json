@@ -131,33 +131,39 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "img/team/01.jpeg",
+      "name": "Lohitaksh Singla",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "name": "Parth Kakadiya",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Ashish Kumar Pathak",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Venkata Suneel Marella",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "MD Tarekul Islam",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Vetterstrasse 70, Chemnitz, Germany 09126 ",
+    "phone": "+49 176 4046 8965",
+    "email": "tsensagroup@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100087798881121",
+    "twitter": "https://twitter.com/tsensagroup",
+    "youtube": "https://www.youtube.com/channel/UCF0qc-mS-8aA5tbffKyoM4Q",
+    "instagram" : "instagram.com"
   },
   "Features": [
     {

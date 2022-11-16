@@ -20,7 +20,7 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_9ilhfep', 'template_wmfd1an', e.target, 'K_lxeWqbaAtypFOEe'
       )
       .then(
         (result) => {
@@ -99,11 +99,16 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <h3>Contact Info</h3>
               <p>
+              <a href="https://goo.gl/maps/Ybcv3kQJ1Z1HsUe2A">
                 <span>
+                  
                   <i className='fa fa-map-marker'></i> Address
                 </span>
+                </a>
                 {props.data ? props.data.address : 'loading'}
+                
               </p>
+              
             </div>
             <div className='contact-item'>
               <p>
@@ -112,6 +117,7 @@ export const Contact = (props) => {
                 </span>{' '}
                 {props.data ? props.data.phone : 'loading'}
               </p>
+              
             </div>
             <div className='contact-item'>
               <p>
@@ -131,6 +137,11 @@ export const Contact = (props) => {
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
+                  {/* <li>
+                    <a href={props.data ? props.data.instagram : '/'}>
+                      <i className='fa fa-instagram"'></i>
+                    </a>
+                  </li>  */}
                   <li>
                     <a href={props.data ? props.data.twitter : '/'}>
                       <i className='fa fa-twitter'></i>
@@ -150,9 +161,9 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
+          &copy; 2022 Tsensa Group {'   '}
+            <a href='http://tsensa.com/' rel='nofollow'>
+              Tsensa Group
             </a>
           </p>
         </div>
