@@ -444,8 +444,9 @@ header .intro-text {
 /* Team Section */
 
 #row {
-  align-content: center;
-  display: contents;
+  display: flex;
+  justify-content: center;
+
 }
 #team {
   padding: 100px 0;
