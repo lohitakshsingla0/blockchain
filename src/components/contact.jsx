@@ -161,11 +161,12 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-          &copy; 2022 Tsensa Group {'   '}
-            <a href='http://tsensa.com/' rel='nofollow'>
+          &copy; 2022 Tsensa Group (This is not a registered Company. This is a project under the guidance of TU Chemnitz) {'   '}
+            
+          </p>
+          <a href='#header' rel='nofollow'>
               Tsensa Group
             </a>
-          </p>
         </div>
       </div>
     </div>

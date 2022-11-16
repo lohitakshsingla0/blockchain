@@ -79,21 +79,6 @@
       "icon": "fa fa-cloud-download",
       "name": "Quality",
       "text": "We provide high quality solutions to our customers"
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Diversity",
-      "text": "We have diverse cultures in our company"
-     },
-    {
-      "icon": "fa fa-plane",
-      "name": "Teamwork ",
-      "text": "We believe in teamwork as it lead to effective results"
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Integrity",
-      "text": "We hold strong moral values and honesty "
     }
   ],
   "Testimonials": [
